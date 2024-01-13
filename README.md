@@ -5,8 +5,8 @@ I am a Frontend engineer from Ukraine 🇺🇦, but currently live in Slovakia.
 I enjoy examine WEB technologies and reding CS books.
 
 - 📫 You can reach me on:
-  [LinkedIn](https://www.linkedin.com/in/nazar-shcherbyna/)
-  email: nazar.shcherbyna.own@gmail.com
+  * [LinkedIn](https://www.linkedin.com/in/nazar-shcherbyna/)
+  * email: nazar.shcherbyna.own@gmail.com
 
 <!--
 Here are some ideas to get you started:

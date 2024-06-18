@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Nazar.
 
-I am a Frontend engineer from Ukraine 🇺🇦, but currently live in Slovakia 🇸🇰.
+I am a Frontend engineer from Ukraine 🇺🇦.
 
-I enjoy examine WEB technologies and reading CS books.
+I enjoy examining WEB technologies and reading CS books.
 
-- 📫 You can reach me on:
+- 📫 You can reach me at:
   * [LinkedIn](https://www.linkedin.com/in/nazar-shcherbyna/)
   * nazar.shcherbyna.own@gmail.com
 

@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nazar.
 
-I am a Software Frontend engineer from Ukraine 🇺🇦.
+I am a Frontend engineer from Ukraine🇺🇦 and Canada🇨🇦
 
 I enjoy examining WEB technologies and reading CS books.
 

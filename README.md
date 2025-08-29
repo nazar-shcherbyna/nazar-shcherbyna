@@ -7,6 +7,7 @@ I enjoy examining WEB technologies and reading CS books.
 - 📫 You can reach me at:
   * [LinkedIn](https://www.linkedin.com/in/nazar-shcherbyna/)
   * nazar.shcherbyna.own@gmail.com
+  * [Resume](https://nazar-shcherbyna.vercel.app/)
 
 <!--
 Here are some ideas to get you started:
